@@ -14,7 +14,7 @@ Styles for Sidebery extension
 
   #root.root {
     --general-border-radius: var(--tf-rounding) !important;
-    --general-margin: 8px !important;
+    --general-margin: 4px !important;
     --tabs-font: var(--tf-font-size) var(--tf-font-family) !important;
 
     --button-size: 35px;
@@ -28,7 +28,7 @@ Styles for Sidebery extension
     --audio-btn-round-margin: calc(var(--tf-rounding) / 2) !important;
 
     --tabs-audio-btn-width: 22px !important;
-    --tabs-margin: 6px !important;
+    --tabs-margin: 0px !important;
     --tabs-height: var(--button-size) !important;
     --tabs-inner-gap: calc(var(--tf-margin) / 2) !important;
     --tabs-border-radius: var(--tf-rounding) !important;
